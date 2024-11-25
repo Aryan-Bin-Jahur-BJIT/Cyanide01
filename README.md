@@ -64,6 +64,7 @@ images.
    open index.html
 
 
+
 ## Usage
 
 * **Search for Restaurants:** Use the search functionality to find dining options based on your preferences.
