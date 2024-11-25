@@ -8,7 +8,8 @@ and discover local restaurants, cafes, and eateries. Whether you're a food enthu
 for new culinary experiences or a traveller seeking the best dining spots in town, Local
 Dining Guide has got you covered.
 
-Project Logo image _(You can use any logo)_
+*[![Logo](https://ggscore.com/media/logo/t40481.png)](http://bjitacademy.com/)*
+
 
 ## Table of Contents
 
@@ -27,11 +28,10 @@ options. It provides a rich and intuitive interface to search for restaurants, v
 read reviews, and get directions. With a focus on enhancing the dining experience, this
 software solution strives to bridge the gap between diners and local eateries.
 
-_Add any banner here._
-
 ## License
 
-_This project is licensed under the MIT License._
+
+*This project is licensed under the [MIT License](http://bjitacademy.com/).*
 
 
 ## Development Technology
@@ -77,11 +77,6 @@ _This project is licensed under the MIT License._
 
 _Click here for more details._
 
-## Getting Started
-
-_Follow these steps to get Local Dining Guide up and running on your local machine._
-
-# Prerequisites
 
 ### Prerequisites
 
@@ -124,60 +119,6 @@ Thank you to the following contributors who have helped to improve this project:
 | Contributor 3 | Email address 3 | Phone Number 3 |
 | Contributor 4 | Email address 4 | Phone Number 4 |
 | Contributor 5 | Email address 5 | Phone Number 5 |
-=======
-**Internet Connection:** A stable internet connection is required to fetch restaurant data and
-images.
-
-### Installation
-
-1. **Clone the Repository:** Start by cloning this repository to your local machine.
-2. **Navigate to Directory:** Move into the project directory.
-3. **Launch the Application:** Open the index.html file in your web browser.
-
-## Usage
-
-- **Search for Restaurants:** Use the search functionality to find dining options
-    based on your preferences.
-- **Explore Restaurant Profiles:** Click on a restaurant to view its detailed profile,
-    including menu items and reviews.
-- **Read and Write Reviews:** Share your dining experiences by leaving reviews
-    and ratings for restaurants.
-- **Save Favourites:** Create an account to save your favourite restaurants and
-    receive personalized recommendations.
-- **Get Directions:** Click on the map integration to get directions to the selected
-    restaurant.
-
-
-git clone https://github.com/yourusername/local-dining-guide.git
-
-
-cd local-dining-guide
-
-
-open index.html
-
-
-Thank you to the following contributors who have helped to improve this project:
-
-
-Name Email Phone
-
-
-Contributor 1 Email address 1 Phone Number 1
-
-
-Contributor 2 Email address 2 Phone Number 2
-
-
-Contributor 3 Email address 3 Phone Number 3
-
-
-Contributor 4 Email address 4 Phone Number 4
-
-
-Contributor 5 Email address 5 Phone Number 5
-
-_Add any Contact banner here._
 
 ## Contact Information
 
